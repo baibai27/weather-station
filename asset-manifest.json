@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/weather-station/static/css/main.5941da9e.css",
+    "main.js": "/weather-station/static/js/main.65fc3992.js",
+    "static/js/787.bd717ee6.chunk.js": "/weather-station/static/js/787.bd717ee6.chunk.js",
+    "static/media/warm-bg.jpg": "/weather-station/static/media/warm-bg.a7f83012aa30f33e19ee.jpg",
+    "static/media/cold-bg.jpg": "/weather-station/static/media/cold-bg.a3f3f533d3caea133b5f.jpg",
+    "index.html": "/weather-station/index.html",
+    "main.5941da9e.css.map": "/weather-station/static/css/main.5941da9e.css.map",
+    "main.65fc3992.js.map": "/weather-station/static/js/main.65fc3992.js.map",
+    "787.bd717ee6.chunk.js.map": "/weather-station/static/js/787.bd717ee6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5941da9e.css",
+    "static/js/main.65fc3992.js"
+  ]
+}
